@@ -17,6 +17,13 @@
 
 - 💻 My freelance <a href="https://tansingsukhum.github.io/Personal-Portfolio/portfolio](https://www.eazyrental.net/" target="_blank">Link</a>
 
+- 🎶 My fav songs while studying:
+- <a href="https://www.youtube.com/watch?v=Vo0gUHy96PM&t=1648s" target="_blank">Snow Fall</a>
+- <a href="https://www.youtube.com/watch?v=c6-ChtDWT00&t=1459s" target="_blank">Interstellar</a>
+- <a href="https://www.youtube.com/watch?v=qfb7QLmzpIQ" target="_blank">It's Been Long, Long Time</a>
+- <a href="https://www.youtube.com/watch?v=LML6SoNE7xE" target="_blank">The Shire</a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thanaphon-singsukhum-98b074271/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
