@@ -3,8 +3,8 @@
 <h3 align="center">A passionate SWE in Front-End Developer, UX/UI design/Research</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tansingsukhum&label=Profile%20views&color=0e75b6&style=flat" alt="tansingsukhum" /> </p>
-
+- 😊 Welcome to my GitHub!!!!
+  
 - 🌱 I’m currently learning **React, JavaScript, and Python**
 
 - 💬 Ask me about **my interest in UX/UI research**
@@ -17,7 +17,7 @@
 
 - 💻 My freelance <a href="https://tansingsukhum.github.io/Personal-Portfolio/portfolio](https://www.eazyrental.net/" target="_blank">Link</a>
 
-- 🎶 My fav songs while studying:
+- 🎶 My study songs:
 - <a href="https://www.youtube.com/watch?v=Vo0gUHy96PM&t=1648s" target="_blank">Snow Fall</a>
 - <a href="https://www.youtube.com/watch?v=c6-ChtDWT00&t=1459s" target="_blank">Interstellar</a>
 - <a href="https://www.youtube.com/watch?v=qfb7QLmzpIQ" target="_blank">It's Been Long, Long Time</a>
