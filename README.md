@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Pointer is painful to learn**
  
-- 📫 How to reach me **tsings02642@gmail.com/singsukt@oregonstate.edu**
+- 📫 How to reach me **tsings02642@gmail.com**
 
 - 📄 My personal website [https://tansingsukhum.github.io/Personal-Portfolio/portfolio](https://tansingsukhum.github.io/Personal-Portfolio/portfolio)
 
