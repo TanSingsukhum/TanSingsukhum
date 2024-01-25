@@ -13,7 +13,7 @@
  
 - 📫 How to reach me **tsings02642@gmail.com**
 
-- 📄 My personal website [https://tansingsukhum.github.io/Personal-Portfolio/portfolio](https://tansingsukhum.github.io/Personal-Portfolio/portfolio)
+- 📄 My personal website <a href="https://tansingsukhum.github.io/Personal-Portfolio/portfolio" target="_blank">Link</a>
 
 
 <h3 align="left">Connect with me:</h3>
