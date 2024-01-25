@@ -15,7 +15,7 @@
 
 - 📄 My personal website <a href="https://tansingsukhum.github.io/Personal-Portfolio/portfolio" target="_blank">Link</a>
 
-- 💻 My last freelance <a href="[https://tansingsukhum.github.io/Personal-Portfolio/portfolio](https://www.eazyrental.net/)" target="_blank">Link</a>
+- 💻 My last freelance <a href="https://tansingsukhum.github.io/Personal-Portfolio/portfolio](https://www.eazyrental.net/" target="_blank">Link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
