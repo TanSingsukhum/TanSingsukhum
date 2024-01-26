@@ -15,7 +15,7 @@
 
 - 📄 My personal website <a href="https://tansingsukhum.github.io/Personal-Portfolio/portfolio" target="_blank">Link</a>
 
-- 💻 My freelance <a href="https://tansingsukhum.github.io/Personal-Portfolio/portfolio](https://www.eazyrental.net/" target="_blank">Link</a>
+- 💻 My freelance <a href="https://www.eazyrental.net/" target="_blank">Link</a>
 
 - 🎶 My study songs:
 - <a href="https://www.youtube.com/watch?v=Vo0gUHy96PM&t=1648s" target="_blank">Snow Fall</a>
